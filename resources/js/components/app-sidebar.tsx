@@ -27,18 +27,18 @@ const mainNavItems: NavItem[] = [
         href: '/products',
         icon: Package,
     },
+    {
+        title: 'Categories',
+        href: '/categories',
+        icon: Package,
+    },
 ];
 
 const footerNavItems: NavItem[] = [
     {
-        title: 'Repository',
+        title: 'Developer',
         href: 'https://mxdev.vercel.app',
         icon: FolderGit2,
-    },
-    {
-        title: 'Documentation',
-        href: 'https://github.com/EdogiStar/pos-app',
-        icon: BookOpen,
     },
 ];
 
